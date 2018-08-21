@@ -1,6 +1,6 @@
 {
   "name": "@somehats/config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Set configuration from env vars",
   "main": "lib/index.js",
   "scripts": {
